@@ -1,0 +1,45 @@
+{
+"links": [
+
+{"source":"Group 1 Chargebacks","target":" ","value":"0.1"},
+{"source":"All other Chargebacks","target":" ","value":"0.3"},
+
+{"source":"Group 1 Shortages","target":" ","value":"0.1"},
+{"source":"All other Shortages","target":" ","value":"0.1"},
+
+{"source":"Group 1 Shortages","target":"Open Statements","value":"0.01"},
+{"source":"All other Shortages","target":"Open Statements","value":"0.1"},
+
+{"source":"Open Statements","target":"Revenue","value":"0.1"},
+
+{"source":" ","target":"Revenue","value":".6"}
+
+
+
+
+
+
+
+
+] ,
+"nodes": [
+
+{"name":"Group 1 Chargebacks"},
+{"name":"All other Chargebacks"},
+
+{"name":"Group 1 Shortages"},
+{"name":"All other Shortages"},
+
+{"name":"Open Statements"},
+
+{"name":" "},
+
+{"name":"Revenue"}
+
+
+
+
+
+
+
+] }
